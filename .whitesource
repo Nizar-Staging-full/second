@@ -25,10 +25,8 @@
     "minSeverityLevel": "LOW",
     "issueType": "DEPENDENCY"
   },
- {
   "remediateSettings": {
     "enableRenovate": true,
     "extends": ["config:base"]
-  }
   }
 }
